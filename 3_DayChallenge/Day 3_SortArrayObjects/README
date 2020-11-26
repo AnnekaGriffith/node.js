@@ -1,0 +1,20 @@
+Objective
+Practice sorting an array.
+
+Resources
+Here are some quick tutorials on sort:
+JavaScript Array sort()
+Sorting an Array of Objects by Property
+
+Task
+An array of objects, , is provided for you in the editor. Complete the code below so that it sorts 's elements alphabetically by book name and then prints the sorted  object.
+
+Note: There is no input to be read, and there are no sample test cases.
+
+Submissions: 408
+Max Score: 100
+Difficulty: Easy
+Rate This Challenge:
+
+    
+More
